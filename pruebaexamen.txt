@@ -12,3 +12,6 @@ respuesta 4
 
 pregunta 5
 respuesta 5
+
+pregunta 6 
+respuesta 6
