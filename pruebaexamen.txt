@@ -6,3 +6,6 @@ respuesta 2
 
 pregunta 3 
 respuesta 3
+
+pregunta 4
+respuesta 4
